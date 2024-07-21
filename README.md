@@ -16,6 +16,8 @@ Merge Sort is a stable, divide-and-conquer algorithm that works by recursively d
 
 Quick Sort is also a divide-and-conquer algorithm that works by selecting a 'pivot' element, partitioning the array around the pivot, and then recursively sorting the partitions.
 
+© 2024 Sukumar Satyen. Licensed under CC BY-NC-ND 4.0.
+
 ## 3. Heap Sort
 
 - **Time Complexity**: \(O(n \log n)\)
